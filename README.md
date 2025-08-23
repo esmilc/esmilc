@@ -37,20 +37,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esmilc&show_icons=true&theme=tokyonight" alt="Esmil's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmilc&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
-- 📧 **Email**: [esmilcanet0711@gmail.com](mailto:esmilcanet0711@gmail.com)  
-- 💼 [**LinkedIn**](https://linkedin.com/in/esmilcanet)  
-- 🌐 [**Portfolio Website**](https://your-portfolio-link.com)
+- 📧 **Email**: [contactme@esmilcanet.com](mailto:contactme@esmilcanet.com)  
+- 💼 [**LinkedIn**](https://linkedin.com/in/esmilc)  
+- 🌐 [**Portfolio Website**](https://www.esmilcanet.com)
 
 ---
 
