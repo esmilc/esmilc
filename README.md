@@ -2,7 +2,6 @@
 
 🎓 **Computer Science** @ University of Florida | GPA: **4.0**  
 💡 Passionate about **software engineering**, **data structures**, and **building impactful solutions**.  
-🚀 Actively seeking **SWE internships** for **Summer 2026**.
 
 ---
 
