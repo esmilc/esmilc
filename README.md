@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Esmil Canet**
 
-🎓 **Computer Science** @ University of Florida | GPA: **4.0**  
+🎓 **Computer Science** @ University of Florida | GPA: **3.97**  
 💡 Passionate about **software engineering**, **data structures**, and **building impactful solutions**.  
 
 ---
